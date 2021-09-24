@@ -51,6 +51,7 @@ h1{
   border-radius: 0.35rem;
   box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
   transition: all 0.3s linear;
+  cursor: pointer;
 }
 .card:hover {
   transform: scale(1.005);
@@ -80,6 +81,7 @@ h1{
   margin-bottom: 0;
   background-color: #e0ffff;
   color: #000;
+ 
 }
 .card-body {
   width: 45%;
